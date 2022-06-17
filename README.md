@@ -12,4 +12,4 @@ GoogleColab, and therefore python were used for this script development. It is r
 2. Select the desired food type to be tested.
 3. Execute
 4. See results and check the thesis document
-In case it is desired to cehck multiple food types, run steps i to iii.
+In case it is desired to cehck multiple food types, run steps 2-4.
