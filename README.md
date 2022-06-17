@@ -1,6 +1,6 @@
 # Balance food packaging and recyclability
 Master Thesis Project - DTU Sustain Department collaboration
-Aida Llacuna
+
 
 ## Description
 This code has been developed to support the research carried for the Master Thesis in Food Technology.
