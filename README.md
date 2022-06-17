@@ -11,5 +11,6 @@ GoogleColab, and therefore python were used for this script development. It is r
 1. Upload the OutputMaterials.xlsx file.
 2. Select the desired food type to be tested.
 3. Execute
-4. See results and check the thesis document
+4. See results and check the thesis document.
+
 In case it is desired to cehck multiple food types, run steps 2-4.
