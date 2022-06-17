@@ -12,4 +12,4 @@ More detail regarding the available materials and food types is found on the the
 * 2. Select the desired food type to be tested.
 * 3. Execute
 * 4. See results and check the thesis document
-* In case it is desired to cehck multiple food types, run steps 2-4.
+* In case it is desired to cehck multiple food types, run steps i to iii.
