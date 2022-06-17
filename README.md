@@ -7,7 +7,7 @@ The aim of this code is to show the selected weigths and criteria described on t
 More detail regarding the available materials and food types is found on the thesis document.
 
 ## Usage
-* GoogleColab, and therefore python were used for this script development. It is recommended to use the same platform to experience the same results as described on the document.
+* GoogleColab, and therefore python were used for this script development. It is recommended to use the same platform (or Jupyter Notebook) to experience the same results as described on the document.
 * 1. Upload the OutputMaterials.xlsx file.
 * 2. Select the desired food type to be tested.
 * 3. Execute
